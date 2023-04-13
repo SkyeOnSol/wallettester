@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Butcherman:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-butcherman: Butcherman;
+
+  /* Colors */
+  --color-white: #fff;
+}
