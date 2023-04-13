@@ -1,5 +1,5 @@
 import styles from "./WalletSelect.module.css";
-
+<WalletMultiButton/>
 const WalletSelect = () => {
   return (
     <div className={styles.walletSelect}>
